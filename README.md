@@ -1,2 +1,2 @@
-# Chip-data-set-analysis (in R languraege)
+# Chip-data-set-analysis (R languraege)
 # For study
